@@ -1,6 +1,6 @@
 # ChatGPT-3.5 Desktop App
 
-[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/jpgold830)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://www.python.org)
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-E5E4E2?logo=OpenAI&logoColor=%23000000)](https://openai.com/blog/openai-api)
@@ -16,7 +16,7 @@ closely resembles interacting with a real person.
 
 ***Press the CTRL key and click the badge below simultaneously to run the application** (Please be aware that the audio playback functionality may not be available when running the application on Replit)*:
 
-[![Run on Repl.it](https://replit.com/badge/github/MaxineXiong/ChatGPT-3.5-Desktop-App.git)](https://replit.com/@MaxineXiong/ChatGPT-35-Desktop-App?v=1)
+[![Run on Repl.it](https://replit.com/badge/github/jpgold830/ChatGPT-3.5-Desktop-App.git)](https://replit.com/@jpgold830/ChatGPT-35-Desktop-App?v=1)
 
 <br/>
 
@@ -48,9 +48,9 @@ To intall the desktop application on your computer, please follow these steps:
 
 1) Clone this repository to your local machine using the following command:
     ```
-    git clone https://github.com/MaxineXiong/ChatGPT-3.5-Desktop-App.git
+    git clone https://github.com/jpgold830/ChatGPT-3.5-Desktop-App.git
     ```
-    Alternatively, you can download the EXE application from the web application **[Talk to GPT-3.5](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5)**.
+    Alternatively, you can download the EXE application from the web application **[Talk to GPT-3.5](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5)**.
 
 2) Download and install the latest version of [Python](https://www.python.org/downloads/) for your system. Make sure to select the "Add Python to PATH" option during the installation process.
 
@@ -69,7 +69,7 @@ To intall the desktop application on your computer, please follow these steps:
 Now you can start chatting with ChatGPT by entering your [API key](https://platform.openai.com/account/api-keys), and then typing your messages in the input field and pressing Enter.
 
 
-![Demo](https://github.com/MaxineXiong/ChatGPT-3.5-Desktop-App/assets/55864839/a8d1f74d-a524-4bbd-89ca-b848fe732fb3)
+![Demo](https://github.com/jpgold830/ChatGPT-3.5-Desktop-App/assets/55864839/a8d1f74d-a524-4bbd-89ca-b848fe732fb3)
 
 <br/>
 
